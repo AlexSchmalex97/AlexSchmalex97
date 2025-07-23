@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Alex!
 
-I’m an aspiring software engineer and content creator learning Python, HTML, and CSS with the goal of joining the Amazon SDE Remote Apprenticeship.
+Software engineer in training and content creator focused on Python, HTML, and CSS. Currently building my portfolio for the Amazon SDE Remote Apprenticeship.
 
 💡 My legal name is **Sasha Ramirez**, but I go by **Alex** both online and professionally.
 
