@@ -15,6 +15,9 @@ Software engineer in training learning Python, HTML, and CSS. Also a lifestyle c
 - 🌐 [LinkTree](https://alexschmalex97.github.io/LinkTree/)  
   A custom LinkTree-style landing page to showcase my online presence and projects.
 
+- ✨ [Compliment Generator](https://alexschmalex97.github.io/Compliment-Generator/)  
+  A magical little web app that delivers sweet, uplifting compliments with sparkles, custom cursors, and cozy vibes. Built with HTML, CSS, and JavaScript.
+
 ---
 
 ## 🔗 Where to Find Me
