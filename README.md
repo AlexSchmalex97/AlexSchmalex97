@@ -37,3 +37,11 @@ Software engineer in training learning Python, HTML, and CSS. Also a lifestyle c
 - 🎓 I’m also finishing a degree in Early Childhood Education  
 - ♿ I’m a mobility aid user and passionate about accessibility in tech  
 - 🎮 I love cozy games, books, and theme parks
+
+---
+
+- ## 🪄 Use & Remix
+
+All of my projects — past, present, and future — are meant to inspire, teach, and be remixed!  
+Feel free to clone, customize, and build upon anything here.  
+Credit is always appreciated but never required 💖✨
