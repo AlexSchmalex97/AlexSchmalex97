@@ -25,7 +25,7 @@ Software engineer in training learning Python, HTML, and CSS. Also a lifestyle c
 [![TikTok](https://img.shields.io/badge/TikTok-%40alexschmalex97-black?logo=tiktok&logoColor=white&style=flat-square)](https://www.tiktok.com/@alexschmalex97)  
 [![Lemon8](https://img.shields.io/badge/Lemon8-%40alexschmalex97-yellow?style=flat-square)](https://www.lemon8-app.com/@alexschmalex97)  
 [![Instagram](https://img.shields.io/badge/Instagram-%40alexschmalex97-purple?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/alexschmalex97)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Ramirez-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/your-linkedin-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Ramirez-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/alexramdev)
 
 ---
 
