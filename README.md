@@ -39,7 +39,7 @@ Software engineer in training learning Python, HTML, and CSS. Also a lifestyle c
 ## ✨ Fun Facts
 
 - 🎓 I’m also finishing a degree in Early Childhood Education  
-- ♿ I’m a mobility aid user and passionate about accessibility in tech  
+- ♿ I’m an ambulatory wheelchair and mobility aid user and passionate about accessibility in tech  
 - 🎮 I love cozy games, books, and theme parks
 
 ---
