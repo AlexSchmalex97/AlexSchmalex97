@@ -33,6 +33,9 @@ Software engineer in training learning Python, HTML, and CSS. Also a lifestyle c
 
 - Python (via Programming with Mosh)
 - HTML & CSS (via Mimo)
+- HTML, CSS & JavaScript (via Mimo – 30% through Full-Stack Career Path)
+- Git & GitHub (pushing from Replit, Working Copy, and VS Code)
+- DOM manipulation and interactivity (click events, querySelector, dynamic content)
 
 ---
 
