@@ -18,6 +18,9 @@ Software engineer in training learning Python, HTML, and CSS. Also a lifestyle c
 - ✨ [Compliment Generator](https://alexschmalex97.github.io/Compliment-Generator/)  
   A magical little web app that delivers sweet, uplifting compliments with sparkles, custom cursors, and cozy vibes. Built with HTML, CSS, and JavaScript.
 
+- 📏 [Unit Converter](https://alexschmalex97.github.io/Unit-Converter/)  
+  A simple and friendly unit converter that switches between miles and kilometers. Built with JavaScript to practice DOM manipulation and interactive UI design.
+
 ---
 
 ## 🔗 Where to Find Me
