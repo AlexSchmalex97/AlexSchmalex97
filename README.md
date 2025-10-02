@@ -3,8 +3,6 @@
 Software engineer in training learning Python, HTML, and CSS. Also a lifestyle content creator sharing life, creativity, and cozy chaos beyond the code. Currently building my portfolio as I continue my journey in tech!
 
 
-💡 My legal name is **Sasha Ramirez**, but I go by **Alex** both online and professionally.
-
 ---
 
 ## 🚀 Live Projects
